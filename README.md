@@ -2,6 +2,8 @@
 
 Better comment styles for Github Pull Request (PR).
 
+Note that this is still an experiment at this time. 
+
 # What ?
 
 From this style:
@@ -40,9 +42,18 @@ Stylish CSS:
     z-index: 1;
     left: -200px;
     margin-top: -10px;
-    border-top: 3px solid #ccc;
+    border-top: 2px solid #ccc;
     width: 300px;
     background: transparent;
+}
+.js-inline-comments-container .line-comments {
+    border: none !important;
+}
+.js-inline-comments-container .btn
+{
+    font-size: 12px;
+    font-weight: normal;
+    line-height: inherit;
 }
 .js-inline-comments-container:hover {
     z-index: 2;
