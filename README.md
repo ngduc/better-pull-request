@@ -78,3 +78,9 @@ Stylish CSS:
     background: transparent;
 }
 ```
+
+## Contributing
+
+PR and issues reporting are always welcome :)
+
+Follow [CONTRIBUTING.md](CONTRIBUTING.md)
