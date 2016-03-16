@@ -6,11 +6,11 @@ Better comment styles for Github Pull Request (PR).
 
 From this style:
 
-<img src="https://github.com/ngduc/better-pull-request/blob/master/docs/assets/demo-before.gif">
+<img src="https://github.com/ngduc/better-pull-request/blob/master/docs/assets/demo-before.png">
 
 To this:
 
-<img src="https://github.com/ngduc/better-pull-request/blob/master/docs/assets/demo-after.gif">
+<img src="https://github.com/ngduc/better-pull-request/blob/master/docs/assets/demo-after.png">
 
 # How ?
 
