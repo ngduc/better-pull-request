@@ -14,6 +14,12 @@ To this:
 
 <img src="https://github.com/ngduc/better-pull-request/blob/master/docs/assets/demo-after.png" border="1">
 
+## Features
+
+* Side comments so you can read the code without distractions
+* Cleaner comment style
+* Mouse over a comment to expand it 
+
 # How ?
 
 For now, [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) is used to modify CSS of the Pull Request Diff Page
